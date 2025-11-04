@@ -1,0 +1,132 @@
+---
+title: "terra"
+documentclass: science-profile
+preview:
+  view: false
+format:
+  pdf:
+    latex-output-dir: build
+    latex-clean: true
+    pdf-engine: lualatex
+    pdf-engine-opts:
+      - '-output-directory=build'
+    fontsize: 12pt
+    geometry: margin=1in
+    number-sections: false
+---
+
+Terra is the physical world: land, climate, and geology.
+
+和季刊出版社集结成书发行。小说主要关注布朗的内向性格，为此他很难同他人交谈，特别是包括母亲在内的异性。书中几乎没有对话，叙述也寥寥无几，是布朗画风较为简洁的作品，部分页面甚至只有一小幅图案。《从没喜欢过你》获得普遍好评，是20世纪90年代早期自传体另类漫画热潮的重要作品，对杰弗里·布朗、艾丽尔·施拉格和安德斯·尼尔森等漫画家颇具影响。
+
+	━	│	┃	┄	┅	┆	┇	┈	┉	┊	┋	┌	┍	┎	┏
+U+251x	┐	┑	┒	┓	└	┕	┖	┗	┘	┙	┚	┛	├	┝	┞	┟
+U+252x	┠	┡	┢	┣	┤	┥	┦	┧	┨	┩	┪	┫	┬	┭	┮	┯
+U+253x	┰	┱	┲	┳	┴	┵	┶	┷	┸	┹	┺	┻	┼	┽	┾	┿
+U+254x	╀	╁	╂	╃	╄	╅	╆	╇	╈
+
+# continents
+
+## arch
+## arch2
+## arch3
+##
+
+# climate
+- Solar Insolation: 1384 W/m² (1.01 S☉)
+- Atmospheric Pressure: 1 atm
+- Baseline Temp: 256K
+- Greenhouse Effect: ~2× Earth
+- Average Surface Temperature: 14 °C
+- Periapsis / Apoapsis Temps: 19 / 9 °C (high seasonal swing; adjust via oceans/clouds)
+- Apparent Brightness from Surface: 1373 W/m²
+
+## surface & albedo
+- Land / Ocean: 40% / 60%
+- Land Biomes (fractions of land):
+- Desert: 17%
+- Grassland: 14%
+- Forest: 53.4%
+- Inland Water: 3.6%
+- Snow/Ice: 12%
+- Ocean Features:
+- Sea Ice: 17% of ocean
+- Clouds: 60% coverage (thick 35%, thin 65%)
+- Effective Bond Albedo (approx): ~0.30
+
+
+
+
+The 10°C global temperature swing, amplified by the vast, featureless plains and large oceans, creates a four-act atmospheric tragedy each year.
+
+## Act I: The Deluge of Spring ("The Great Thaw")
+As the 570-day year progresses and the hemisphere tilts towards its F-type star, the transition from winter to summer is not gentle. It is a violent explosion of energy.
+
+Continental-Scale Flooding: The winter's accumulated snowpack—meters deep across millions of square kilometers—melts in a matter of weeks. This isn't a flood of rivers; it's a flood of continents. Vast portions of the plains transform into shallow, turbulent inland seas of silt-choked meltwater. The landscape becomes a mosaic of temporary archipelagos and raging, braided rivers carving new channels.
+
+Supercell Fronts: The cold, dense air mass of winter clashes violently with the incoming warm, moist air from the oceans. This creates an atmosphere of extreme instability, ideal for spawning continent-spanning fronts of supercell thunderstorms. These aren't isolated storms; they are organized lines of rotating updrafts thousands of kilometers long, producing:
+
+Tornado Outbreaks: Tornadoes would be common and incredibly powerful, likely far exceeding the F5/EF5 rating on Earth. The immense energy available could sustain them for hours, carving scars into the landscape that would be visible from orbit.
+
+Destructive Hail: Hailstones the size of grapefruits or larger would pummel the land, capable of shattering rock and killing any unsheltered organism.
+
+## Act II: The Fury of Summer ("The Steam-Bath")
+At the peak of summer, with a global average temperature of 19°C, the oceans are super-heated and pumping colossal amounts of water vapor into the atmosphere.
+
+Hyper-Hurricanes: Cyclonic storms forming over the oceans would have a theoretical maximum intensity that is terrifying. With sea surface temperatures far exceeding Earth's tropics and more energy in the system, these storms could become semi-permanent features akin to Jupiter's Great Red Spot, lasting for weeks. Wind speeds could reach 400-500 km/h (250-310 mph). Their storm surges wouldn't just inundate coastlines; they would be tsunami-like walls of water pushed hundreds of kilometers inland across the flat plains.
+
+Atmospheric Firehoses: The mega-monsoons would be fed by "atmospheric rivers" of unimaginable scale. These concentrated channels of vapor would transport more water than any terrestrial river, focusing it into a relentless, months-long deluge over the continental interiors. This wouldn't just cause flooding; it would cause hyper-erosion, carving deep, temporary canyons (arroyos and wadis) in a single season.
+
+## Act III: The Flash Freeze of Autumn
+The land cools much faster than the oceans. This temperature differential is the engine for the autumn's chaos.
+
+Planet-Sweeping Cold Fronts: The first blasts of arctic air from the cooling poles would sweep across the continents. When this super-chilled, dry air hits the still-warm, moist land, it would trigger a flash freeze. Temperatures could plummet by 30-40°C in a single day. Lakes, rivers, and even the saturated ground itself would freeze solid, trapping anything that couldn't escape.
+
+Hyper-Blizzards: As these frigid fronts reach the coast and hit the moisture coming off the still-warm oceans, they would generate blizzards of planetary scale. These storms would drop meters of snow in a day, burying entire ecosystems and beginning the formation of the winter snowpack.
+
+## Act IV: The Stillness of Winter ("The Glass Desert")
+At the winter peak, with a global average of 9°C, the continental interiors would be locked in a deep freeze, potentially reaching -40°C to -60°C.
+
+Katabatic Winds: The air over the frozen continents and high-altitude ice caps would become intensely cold and dense. This air would then pour down the gentle slopes of the plains as a constant, ferocious katabatic wind. These are not just gales; they are rivers of dense, freezing air that flow for months, causing extreme wind chill and scouring the landscape with blown ice crystals, a process called nivation.
+
+The Crystal Air: In the coldest, calmest regions, the air itself would become a hazard. The temperature would drop so low that water vapor would sublimate directly into tiny ice crystals, creating a perpetual, glittering fog known as diamond dust. This air would be lethal to breathe, freezing lung tissue instantly.
+
+The plains are not a place for permanent settlement. They are a battlefield, shaped by elemental forces, that can only be occupied by the most resilient, mobile, or ephemeral forms of life.
+
+
+
+
+Geography
+1. Planet Overview
+ Imagine a planet similar to Earth, with oceans, continents, forests, and deserts — but geologically, it’s structured around four enormous, slowly drifting plates rather than dozens of fast-moving tectonic plates. These plates move only a few centimeters per century, so coastlines, rivers, and mountains shift gradually over millions of years. This slow motion creates a sense of long-term stability, giving ecosystems time to flourish and evolve while still allowing the land to grow and change over geological timescales.
+2. Volcanic Hotspots
+Scattered across the plates are roughly ten major volcanic hotspots, along with several smaller ones. These hotspots form mountains, islands, and fertile regions, creating ecological oases amid the stable plate interiors. Over time, some of the hotspots produce volcanic island chains stretching across the ocean, while minor geological processes allow for other, non-volcanic islands to form along faults or coastal uplift. Forests, lakes, and rich grasslands cluster around these areas, while species evolve in relative isolation, producing unique, endemic flora and fauna.
+3. Rift Valleys and Fault Zones
+ In addition to hotspots, the planet hosts seven major rift valleys along plate boundaries, plus numerous smaller faults and fractures. These valleys and faults carve dramatic landscapes — towering cliffs, river-filled basins, and steep escarpments. Life adapts to these vertical and rugged regions, with species specialized for cliffs, slopes, and sheltered valleys. These fault zones, like hotspots, become biological focal points, concentrating life and creating localized diversity against the broader, stable plains.
+4. Stable Interiors
+ Most of each plate’s interior is geologically quiet, forming vast, stable plains, deserts, and forests. While less dramatic than hotspots or rift valleys, these regions provide the backbone for the planet’s ecosystems. Large herbivores, predators, and migratory species inhabit these areas, using river networks and corridors of vegetation to traverse between the more dramatic geological features. Over millions of years, slow crustal drift subtly reshapes coastlines and river systems, allowing species to gradually expand or shift their ranges.
+5. Life and Biogeography
+ The combination of slow-moving plates, concentrated hotspots, and fault valleys produces a world that is both stable and strikingly diverse. Most of the land remains predictable, letting life adapt and ecosystems persist, while hotspots and rift zones act as centers of innovation, driving speciation and unique ecological communities. Species cluster around these oases, evolve in isolation, and occasionally expand across drifting plates, creating a planet of concentrated, dramatic landscapes and rich, varied life — familiar enough to feel habitable, but alien enough to be its own sandbox of evolution.
+
+
+
+
+
+
+
+
+
+
+
+
+# geology
+
+The geology consists mainly of sedimentary rocks.
+
+# biomes
+
+The main biomes are forests, deserts, and wetlands.
+
+# mapping
+
+This is the mapping of the world.

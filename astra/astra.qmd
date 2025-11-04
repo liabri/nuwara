@@ -1,0 +1,47 @@
+---
+title: "astra"
+documentclass: science-profile
+preview:
+  view: false
+format:
+  pdf:
+    latex-output-dir: build
+    latex-clean: true
+    pdf-engine: xelatex
+    pdf-engine-opts:
+      - '-output-directory=build'
+    fontsize: 12pt
+    geometry: margin=1in
+    number-sections: false
+---
+
+Astra is all beyond the planet: the star.
+
+# star
+
+Type: F6.7 V
+Mass: 2.40×10³⁰ kg (1.20 M☉)
+Radius: 1.58×10⁶ km (1.14 R☉)
+Luminosity: 7.92×10²⁶ W (2.07 L☉)
+Surface Temperature: 6489 K
+Main-sequence Lifetime: ~5.9×10⁹ yr
+Habitable Zone: ~1.43 AU
+
+# planet
+
+Radius: 5415 km (0.85 R♁)
+Mass: 4.72×10²⁴ kg (0.79 M♁)
+Gravity: 10.78 m/s² (1.09 g♁)
+Density: 7.11 g/cm³ (1.29 ρ♁)
+Surface Area: 3.68×10⁸ km² (0.73 S♁)
+
+## orbit
+Semi-major Axis: 1.43 AU
+Eccentricity: 0.04
+Periapsis / Apoapsis: 1.37 / 1.49 AU
+Orbital Period: 569.9 days (1.56 Earth years)
+Orbital Velocity: 27.17 km/s
+Inclination: 74° to reference plane
+Axial Tilt: 23° (Earthlike seasons; adjustable)
+Hill Sphere: ~292 R♁
+Roche Limit (rocky moon): ~2.7 R♁
